@@ -1,47 +1,47 @@
-#  Sales Performance Dashboard
+#  Sales Performance Dashboard | Power BI
 
 ##  Project Overview
-The Sales Performance Dashboard is an interactive data visualization project developed using Microsoft Power BI. It provides insights into sales performance, revenue, profit, and business trends through interactive charts and visualizations.
 
-The main objective of this project is to transform raw sales data into meaningful insights that support better business decision-making.
+The Sales Performance Dashboard is a Power BI project designed to analyze and visualize business sales data. It provides insights into sales performance across different salespersons, departments, and products through interactive dashboards and visualizations.
 
-##  Project Objectives
-- Analyze overall sales performance.
-- Monitor revenue and profit.
-- Identify sales trends and patterns.
-- Track key performance indicators (KPIs).
-- Present business insights through interactive visualizations.
+The project aims to make sales data easier to understand and help monitor business performance through data-driven insights.
 
 ##  Tools & Technologies
+
 - Microsoft Power BI
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- DAX (Data Analysis Expressions)
+- Power Query
+- DAX
 
-##  Dashboard Features
-- Interactive sales performance analysis.
-- Revenue and profit monitoring.
-- KPI visualization.
-- Sales trend analysis.
-- User-friendly dashboard design.
+##  Key Analysis Areas
 
-##  Key Learnings
-- Practical experience with Power BI.
-- Understanding and analyzing sales data.
-- Creating interactive dashboards.
-- Developing meaningful business insights.
-- Improving data visualization skills.
+### 1. Salesperson-wise Analysis
+- Analyze individual salesperson performance.
+- Compare sales contributions across salespersons.
+- Identify top-performing salespersons.
 
-##  Project Outcome
-This project demonstrates my ability to analyze sales data, create interactive dashboards, and communicate business insights effectively using Power BI.
+### 2. Department-wise Analysis
+- Evaluate sales performance across departments.
+- Compare department-wise sales contributions.
+- Identify high-performing departments.
+
+### 3. Product-wise Analysis
+- Analyze sales performance by product.
+- Compare product sales and contributions.
+- Identify top-selling products.
+
+##  Project Objectives
+
+- Monitor overall sales performance.
+- Compare performance across salespersons and departments.
+- Understand product-wise sales trends.
+- Identify key business insights.
+- Support data-driven decision-making.
+
 
 ##  Author
 **Fathima Shamna C.**
 
 Aspiring Data Analyst
-
-Skills: Excel | SQL | Python | Power BI
 
 ---
 ⭐ If you find this project useful, feel free to explore the repository!
